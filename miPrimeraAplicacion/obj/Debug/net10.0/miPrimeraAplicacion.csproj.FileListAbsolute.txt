@@ -1,0 +1,14 @@
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\net10.0\miPrimeraAplicacion.exe
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\net10.0\miPrimeraAplicacion.deps.json
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\net10.0\miPrimeraAplicacion.runtimeconfig.json
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\net10.0\miPrimeraAplicacion.dll
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\net10.0\miPrimeraAplicacion.pdb
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\net10.0\miPrimeraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\net10.0\miPrimeraAplicacion.AssemblyInfoInputs.cache
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\net10.0\miPrimeraAplicacion.AssemblyInfo.cs
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\net10.0\miPrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\net10.0\miPrimeraAplicacion.dll
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\net10.0\refint\miPrimeraAplicacion.dll
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\net10.0\miPrimeraAplicacion.pdb
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\net10.0\miPrimeraAplicacion.genruntimeconfig.cache
+C:\Users\Reserva4\Desktop\Proyectos C#\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\net10.0\ref\miPrimeraAplicacion.dll
